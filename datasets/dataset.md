@@ -1,0 +1,1 @@
+The T-Finance and T-Social datasets developed in the paper are on google drive{https://drive.google.com/drive/folders/1PpNwvZx_YRSCDiHaBUmRIS3x1rZR7fMr}. Download and unzip all files in the dataset folder.
